@@ -7,7 +7,7 @@
 
 <img src=https://user-images.githubusercontent.com/1221423/156946922-c6167732-6171-4233-899b-5a6216e1a363.svg width=300 align=right>
 
-# Hello GitHub Actions 👋
+# Hello GitHub Actions :wave:
 
 _Create a GitHub Action and use it in a workflow._
 
